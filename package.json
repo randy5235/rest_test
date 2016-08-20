@@ -1,0 +1,17 @@
+{
+  "name": "rest_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "author": "Randy Wressell",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "mocha": "^3.0.2"
+  }
+}
